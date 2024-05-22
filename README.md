@@ -23,6 +23,8 @@ For example:
 - Friday: 29°C
 - Saturday: 19°C
 
+If there's an error returned from the request, instead of the above shown the following message: `Something went wrong with the request`
+
 The following is the script to inject:  
 
 ```js
